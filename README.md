@@ -46,7 +46,7 @@ Feel free to contact me through LinkedIn as I am always open to meeting new peop
   </div>
 
   <div style="text-align: center;">
-    <h3>Podcast Translations</h3>
+    <h3>Personal Storefront</h3>
     <a href="https://pengeri1.github.io/art-shop/">
         <img src="https://github.com/user-attachments/assets/78487119-24f3-4be9-a9c4-c0a8c05518e2" alt="store" width="600" title="Personal Website"/>
     </a>
