@@ -51,5 +51,12 @@ Feel free to contact me through LinkedIn as I am always open to meeting new peop
         <img src="https://github.com/user-attachments/assets/78487119-24f3-4be9-a9c4-c0a8c05518e2" alt="store" width="600" title="Personal Website"/>
     </a>
   </div>
-  
+
+  <div style="text-align: center;">
+    <h3>Geoguesser</h3>
+    <a href="https://github.com/pengeri1/GeoGuesser/tree/main">
+        <img src="https://github.com/user-attachments/assets/a007694c-51e8-4852-bb6e-e412fbec02d4" alt="AI Model" width="600" title="AI Model"/>
+    </a>
+  </div>
+
 </div>
