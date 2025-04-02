@@ -44,12 +44,14 @@ Feel free to contact me through LinkedIn as I am always open to meeting new peop
   
   <div style="text-align: center;">
     <h3>Veoneer and Magna QA Management System</h3>
-    <img src="https://github.com/user-attachments/assets/cbc2d4cc-2fd9-4df5-ac1d-5bef784a8964" alt="Another Poster" width="600"/>
+    <a href="https://github.com/pengeri1/Magna-Veoneer-QA-Management-System">
+      <img src="https://github.com/user-attachments/assets/cbc2d4cc-2fd9-4df5-ac1d-5bef784a8964" alt="Another Poster" width="600"/>
+    </a>
   </div>
   
   <div style="text-align: center;">
     <h3>Veoneer Tracibility Program</h3>
-    <img src="https://github.com/user-attachments/assets/8d53f880-0f22-4882-a5f1-5c2bab032f28" alt="Another Poster" width="600"/>
+      <img src="https://github.com/user-attachments/assets/8d53f880-0f22-4882-a5f1-5c2bab032f28" alt="Another Poster" width="600"/>
   </div>
 
   <div style="text-align: center;">
